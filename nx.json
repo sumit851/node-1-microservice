@@ -12,7 +12,8 @@
         ]
       }
     }
-  },
+  }, 
+
   "targetDefaults": {
     "build": {
       "dependsOn": [
@@ -20,6 +21,6 @@
       ]
     }
   },
-  "nxCloudId": "672bcc8a74b40c6c711a9ef2",
+  "nxCloudId": "",
   "defaultBase": "main"
 }
